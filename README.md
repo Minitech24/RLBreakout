@@ -1,5 +1,5 @@
 # RLBreakout
-Reinforcement Learning for Breakout
+Reinforcement Learning for Breakout  
 University of Zurich  
 Fall2020  
 Anej Zver, Nicholas Vecci, Kevin Hardegger
